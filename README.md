@@ -9,12 +9,12 @@
 Contributed to business support systems at CSG, enhancing functionalities for large-scale telecommunications and financial applications.
 Built a machine learning model to predict car prices, applying advanced techniques in data preprocessing, visualization, and model optimization.
 Conducted extensive exploratory data analysis (EDA) on various datasets, including BlinkIt sales and police arrests, using Python libraries like Pandas, Seaborn, and Matplotlib.
-📊 Skills:
 
+📊 Skills:
 Proficient in Python, SQL, and data visualization tools.
 Experienced with machine learning techniques, including supervised learning, hyperparameter tuning, and model evaluation.
 Familiar with tools like Power BI, JIRA, and Confluence.
-🌱 Learning:
 
+🌱 Learning:
 Currently exploring advanced data analysis techniques, including time series analysis and DAX functions.
 Interested in leveraging data to drive business value and strategic decision-making.
